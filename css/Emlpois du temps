@@ -1,0 +1,35 @@
+table, th, td {     
+background:linear-gradient(#EEE2DF, #EED7C5);  
+padding:10px; 
+margin-bottom:50px;     
+border-collapse:separate; 
+border-spacing:4px; 
+border: 2px solid black; 
+border-radius:4px; 
+font-size:12px;   
+font-family:Arial   
+}   
+
+caption{  
+margin-bottom:20px; 
+font-size:40px;  
+text-shadow:2px 2px 4px black; 
+font-family: Arial; 
+color: #2F4558; 
+text-align: left;  
+}
+
+.top{  
+text-align: center;  
+color: #212E53;  
+}
+
+.haut{  
+font-size: 20px; 
+padding: 5px;    
+color: #A7001E;  
+}  
+
+.bas{  
+padding: 25px;  
+} 
